@@ -9,8 +9,7 @@ Code attempting to rely on this requires @babel/plugin-proposal-decorators
 ```
 $ npm run clean
 $ npm run build
-$ cd dist
-$ node tester.js
+$ npm run test
 ```
 
 ## Usage
